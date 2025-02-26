@@ -1,7 +1,7 @@
 ---
 title: 디자인 패턴 - 싱글턴 패턴
 date: 2025-02-26 21:15:00 +0900
-categories: [Design Pattern, Create Pattern]
+categories: [Design Pattern, Creational Pattern]
 tags: [Design Pattern, Creational Pattern, Java]
 ---
 ## [Java] 싱글턴 패턴 (Singleton Pattern)
