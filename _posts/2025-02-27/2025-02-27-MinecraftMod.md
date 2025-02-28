@@ -1,8 +1,8 @@
 ---
 title: 2025년도 마인크래프트 모드 설치 방법
 date: 2025-02-27 19:30:00 +0900
-categories: [Minecraft, Info]
-tags: [Minecraft, Minecraft/Mod]
+categories: [Minecraft/Mod, Info]
+tags: [Minecraft, Minecraft Mod, Minecraft Mod Info]
 ---
 내용이 조금 길어서 귀찮을건데 두세번 해보면 다 외워버립니다   
 근데 너무 익숙해지면 모드에 빠져 살게 될 수 있습니다   
