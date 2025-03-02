@@ -49,7 +49,7 @@ public class HouseRobotFactory extends RobotFactory {
 }
 
 // HouseRobot 인스턴스를 만드는 경우
-HouseRobotFactory houseRobotFactory = new HouseRobotFactory();
+RobotFactory houseRobotFactory = new HouseRobotFactory();
 Robot robot = houseRobotFactory.newInstance();
 ```
 돈이 없어서 일단 집안일 해주는 로봇을 만들었습니다  
