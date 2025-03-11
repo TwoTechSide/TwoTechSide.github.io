@@ -19,7 +19,7 @@ title: 2TS Dev # the main title
 tagline: Development with 2TechSide # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  바닥부터 시작하는 프로그래밍 일대기
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/TwoTechSide"
 
 # ------------ The following options are not recommended to be modified ------------------
 
